@@ -1,0 +1,13 @@
+{
+  "name": "bing-crawler",
+  "version": "1.0.0",
+  "description": "An image crawler for the bing images of the day",
+  "main": "index.js",
+  "repository": "https://github.com/schaechinger/bing-crawler",
+  "author": "Manuel Schächinger <manuel@schaechinger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "2.21.0",
+    "node-thumbnail": "0.13.0"
+  }
+}
